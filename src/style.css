@@ -1,0 +1,122 @@
+* {
+  font-family: 'Century Gothic';
+  color: white;
+}
+
+body {
+  background-color: black !important;
+}
+
+.nav-bar-wrapper {
+  width: 85%;
+  margin: auto;
+  margin-top: 50px;
+}
+
+.container {
+  padding: 10px;
+}
+
+.one {
+  width: 60%;
+  float: left;
+}
+
+.two {
+  margin-left: 60%;
+}
+
+.name {
+  font-size: 45px;
+  font-weight: bold;
+}
+
+.menu a {
+  font-size: 35px;
+  border: 2px solid;
+  text-decoration: none;
+  padding: 7px;
+  clear: both;
+}
+
+.menu a:hover {
+  color: black;
+  background-color: white;
+  transition: 1s;
+  border: 2px solid white;
+}
+
+hr {
+  width: 90%;
+}
+
+.hero-img {
+  width: 90%;
+  margin: auto;
+}
+
+.main-title {
+  font-size: 45px;
+  width: 85%;
+  margin: auto;
+}
+
+.overview {
+  width: 85%;
+  margin: auto;
+  font-size: 20px;
+}
+
+.newsec {
+  width: 80%;
+  margin: auto;
+}
+
+.img1 {
+  width: 45%;
+  margin: auto;
+  float: left;
+}
+
+.sun1 {
+  width: 100%;
+  height: 300px;
+}
+
+.psec1 {
+  width: 45%;
+  margin: auto;
+  font-size: 20px;
+  margin-right: 0px;
+}
+
+q {
+  font-size: 20px;
+}
+.vid,
+.aud {
+  width: 75%;
+  margin: auto;
+}
+
+video,
+audio {
+  border: 1px solid white;
+}
+
+.footer {
+  width: 100%;
+  text-align: center;
+}
+
+.student-info,
+.honesty {
+  width: 70%;
+  margin: auto;
+  height: 460px;
+}
+
+.si,
+.hp {
+  font-size: 20px;
+}
